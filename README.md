@@ -49,4 +49,5 @@ torch = 1.10.0
 
 cuda = 11.3
 
+## If you want to use this paper, please include a citation
 
