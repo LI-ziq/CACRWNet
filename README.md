@@ -1,5 +1,6 @@
 # CACRWNet
 Context-aware and Channel re-weighting network with Noise suppression for Remote sensing scene classification
+[Links to papers](https://www.tandfonline.com/doi/full/10.1080/2150704X.2023.2234550)
 
 ## Instruction
 * `split.py`
