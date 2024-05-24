@@ -24,6 +24,8 @@ The optimizer can also be customized to meet your needs.
 
 You can change the data set category, training batch size, number of training rounds, and path to store the model from `config.py`.
 
+！[Architecture of our method]()
+
 ## Datasets
 
 * UC Merced Land Use Dataset:
